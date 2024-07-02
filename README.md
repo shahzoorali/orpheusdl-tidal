@@ -4,6 +4,7 @@
 
 ## Prerequisites
 
+- Have Spotify account for API KEYS (https://developer.spotify.com/dashboard)
 - Already have OrpheusDL installed and configured (https://github.com/OrfiTeam/OrpheusDL)
 - Python 3.x
 - Required Python libraries:
@@ -12,6 +13,9 @@
 - `orpheusdl-tidal` repository
 
 ## Setup / Dependancy
+
+MAKE SURE TO CHANGE WITH YOUR 'client_id='YOUR_CLIENT_ID', client_secret='YOUR_CLIENT_SECRET'' in spot2tidal.py file (line #9)
+Grab from https://developer.spotify.com/dashboard
 
 1. **Clone the `orpheusdl-tidal` Repository:**
 
